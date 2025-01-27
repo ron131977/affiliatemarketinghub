@@ -56,9 +56,9 @@ export const ProductSchema = ({ product }: ProductSchemaProps) => {
       },
       author: {
         "@type": "Person",
-        name: "John Doe",
+        name: "Dr Trailer",
       },
-      datePublished: "2023-01-01",
+      datePublished: "2025-01-01",
       reviewBody: "This product exceeded my expectations. Highly recommended!",
     } as Review,
   }

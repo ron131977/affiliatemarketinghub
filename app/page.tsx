@@ -4,8 +4,35 @@ import { TodaysDeals } from "./components/TodaysDeals"
 import { CategorySection } from "./components/CategorySection"
 import productsData from "./data/products.json"
 import Head from "next/head";
+import Script from "next/script";
 
 export default function Home() {
+  const uwatchfreeSchema = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "AmazonAffiliateStore™ ",
+    "url": "https://amazonaffiliatestore.vercel.app/",
+    "image": "https://amazonaffiliatestore.vercel.app/favicon.ico",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://amazonaffiliatestore.vercel.app//favicon.ico",
+      "width": 280,
+      "height": 80
+    }
+  };
+
+  const rankMathSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://amazonaffiliatestore.vercel.app",
+    "name": "AmazonAffiliateStore™ ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "AmazonAffiliateStore™ ",
+      "url": "https://amazonaffiliatestore.vercel.app"
+    }
+  };
+
   return (
 <>
 <Head>
@@ -43,7 +70,12 @@ export default function Home() {
         />
     
       </Head>
-
+      <Script type="application/ld+json">
+        {JSON.stringify(uwatchfreeSchema)}
+      </Script>
+      <Script type="application/ld+json">
+        {JSON.stringify(rankMathSchema)}
+      </Script>
     <div className="container mx-auto px-4 py-8">
       
       <section className="mb-12">
