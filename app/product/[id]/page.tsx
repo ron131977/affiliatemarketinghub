@@ -9,6 +9,7 @@ import { BuyButton } from "./BuyButton"
 import { Star, Check } from "lucide-react"
 import productsData from "../../data/products.json"
 import { formatCurrency, formatDate } from "../../utils/formatting"
+import Script from "next/script";
 
 const getProduct = async (id: string) => {
   // Simulating an API call
@@ -67,6 +68,21 @@ export default async function ProductPage({ params }: { params: { id: string } }
   }
 
   return (
+    <>
+       {/* Google Tag Manager Script */}
+       <Script
+       src="https://www.googletagmanager.com/gtag/js?id=G-ECQCVNHQ8S"
+       strategy="lazyOnload"
+       async
+     />
+     <Script id="google-tag-manager" strategy="lazyOnload">
+       {`
+                   window.dataLayer = window.dataLayer || [];
+                   function gtag(){dataLayer.push(arguments);}
+                   gtag('js', new Date());
+                   gtag('config', 'G-ECQCVNHQ8S');
+               `}
+     </Script>
     <div className="container mx-auto px-4 py-8">
       <nav className="text-sm mb-4" aria-label="Breadcrumb">
         <ol className="list-none p-0 inline-flex flex-wrap">
@@ -135,6 +151,7 @@ export default async function ProductPage({ params }: { params: { id: string } }
 
       <ProductSchema product={product} />
     </div>
+    </>
   )
 }
 

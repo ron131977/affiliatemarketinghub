@@ -76,6 +76,20 @@ export default function Home() {
       <Script type="application/ld+json">
         {JSON.stringify(rankMathSchema)}
       </Script>
+         {/* Google Tag Manager Script */}
+         <Script
+              src="https://www.googletagmanager.com/gtag/js?id=G-ECQCVNHQ8S"
+              strategy="lazyOnload"
+              async
+            />
+            <Script id="google-tag-manager" strategy="lazyOnload">
+              {`
+                          window.dataLayer = window.dataLayer || [];
+                          function gtag(){dataLayer.push(arguments);}
+                          gtag('js', new Date());
+                          gtag('config', 'G-ECQCVNHQ8S');
+                      `}
+            </Script>
     <div className="container mx-auto px-4 py-8">
       
       <section className="mb-12">
