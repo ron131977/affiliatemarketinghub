@@ -108,39 +108,50 @@ export default function Home() {
             </div>
           </div>
         </section>
-
+        <section className="mb-12">
+        <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 text-center">Limited Time Offer !!!</h2>
+        </section>
+        
+     
         <TodaysDeals products={productsData.slice(0, 4)} />
 
+       
         <section className="mb-12">
           <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8">Featured Products</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 text-center">Best Selected Latest & Branded Products.</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
-            {productsData.slice(0, 8).map((product) => (
+            {productsData.slice(0, 12).map((product) => (
               <ProductCard key={product.id} product={product} />
             ))}
           </div>
         </section>
 
         <CategorySection
-          title="Electronics"
+          title="Electronics & Accessories."
           products={productsData.filter((p) => p.category === "electronics").slice(0, 4)}
         />
 
         <CategorySection
-          title="Home & Kitchen"
+          title="Home & Kitchen & Accessories."
           products={productsData.filter((p) => p.category === "home-and-kitchen").slice(0, 4)}
         />
 
         <CategorySection
-          title="Mobiles & Accessories"
+          title="Mobiles & Accessories."
           products={productsData.filter((p) => p.category === "smartphones").slice(0, 4)}
+        />
+        <CategorySection
+          title="Computers & Accessories."
+          products={productsData.filter((p) => p.category === "computers").slice(0, 4)}
         />
 
         <CategorySection
-          title="Automotive"
+          title="Automotive & Accessories."
           products={productsData.filter((p) => p.category === "automotive").slice(0, 4)}
         />
 
-        <CategorySection title="Fashion" products={productsData.filter((p) => p.category === "fashion").slice(0, 4)} />
+        <CategorySection title="Fashion & Accessories." 
+        products={productsData.filter((p) => p.category === "fashion").slice(0, 4)} />
       </div>
     </>
   )
