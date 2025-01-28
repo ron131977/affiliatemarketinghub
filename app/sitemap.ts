@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next"
 import productsData from "./data/products.json"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://yourdomain.com"
+  const baseUrl = "https://amazonaffiliatestore.vercel.app"
 
   const productUrls = productsData.map((product) => ({
     url: `${baseUrl}/product/${product.id}`,
