@@ -28,8 +28,8 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/category/books" className="text-sm text-gray-400 hover:text-white">
-                  Books
+                <Link href="/category/smartphones" className="text-sm text-gray-400 hover:text-white">
+                Mobiles
                 </Link>
               </li>
             </ul>
