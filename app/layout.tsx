@@ -56,7 +56,7 @@ export const metadata: Metadata = {
   verification: {
     google: "RNN2teFhD-lV1TQ9qcLQiSO5BLBB4DmztyYJS6QLqDg",
     yandex: "2ed424cb83002f12",
-    yahoo: "your-yahoo-verification-code",
+    yahoo: "695BD01C3BC615AB69B7E9C3B718EB74",
   },
   alternates: {
     canonical: "https://amazonaffiliatestore.vercel.app",
