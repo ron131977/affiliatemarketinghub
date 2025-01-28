@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     "fashion",
     "online shopping",
   ],
-  authors: [{ name: "Dr Traile" }],
+  authors: [{ name: "Dr Trailer" }],
   creator: "Dr Trailer",
   publisher: "Amazon Affiliate Store",
   formatDetection: {
