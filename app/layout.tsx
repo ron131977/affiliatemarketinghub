@@ -93,13 +93,25 @@ export default function RootLayout({
               },
               {
                 "@type": "ListItem",
-                position: 2,
+                position: 3,
                 name: "Home & Kitchen",
                 item: "https://amazonaffiliatestore.vercel.app/category/home-and-kitchen",
               },
               {
                 "@type": "ListItem",
-                position: 2,
+                position: 4,
+                name: "Home & Kitchen",
+                item: "https://amazonaffiliatestore.vercel.app/category/computers",
+              },
+              {
+                "@type": "ListItem",
+                position: 5,
+                name: "Home & Kitchen",
+                item: "https://amazonaffiliatestore.vercel.app/category/automotive",
+              },
+              {
+                "@type": "ListItem",
+                position: 6,
                 name: "Fashion",
                 item: "https://amazonaffiliatestore.vercel.app/category/fashion",
               },

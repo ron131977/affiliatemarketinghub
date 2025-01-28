@@ -451,6 +451,7 @@ export default function Home() {
           href="https://amazonaffiliatestore.vercel.app/sitemap.xml"
         />
         <meta name="google-site-verification" content="RNN2teFhD-lV1TQ9qcLQiSO5BLBB4DmztyYJS6QLqDg" />
+        <meta name="yandex-verification" content="2ed424cb83002f12" />
       </Head>
       <Script type="application/ld+json">{JSON.stringify(uwatchfreeSchema)}</Script>
       <Script type="application/ld+json">{JSON.stringify(rankMathSchema)}</Script>
