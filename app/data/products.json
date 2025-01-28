@@ -369,5 +369,30 @@
     ],
     "amazonLink": "https://amzn.to/3E8bLBa",
     "category": "electronics"
+  },
+  {
+    "id": "Apple-MacBook-Air-Laptop-Apple-M1-chip",
+    "name": "Apple MacBook Air Laptop: Apple M1 chip",
+    "price": 67990,
+    "description": "Apple MacBook Air Laptop: Apple M1 chip, 13.3\"/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+    "images": [
+      "https://m.media-amazon.com/images/I/71jG+e7roXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-6roO29AL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/913iRx-3W-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61uNK7su24L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ChHwbxObL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71z-1j187cL._SL1500_.jpg"
+    ],
+    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/7ee34064-699c-472b-b6a3-6cec7329b56a/default.jobtemplate.hls.m3u8",
+    "features": [
+      "Brand: Apple - Model Name: MacBook Air - Screen Size: 13 Inches - Colour: Space Grey - Hard Disk Size: 256 GB - CPU Model: Core M Family - RAM Memory Installed Size: 8 GB - Operating System: macOS 10.14 Mojave - Special Feature: Portable - Graphics Card: Integrated",
+      "All-Day Battery Life – Go longer than ever with up to 18 hours of battery life.",
+      "Powerful Performance – Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power.",
+      "Superfast Memory – 8GB of unified memory makes your entire system speedy and responsive. That way it can support tasks like memory-hogging multitab browsing and opening a huge graphic file quickly and easily.",
+      "Stunning Display – With a 13.3\"/33.74 cm Retina display, images come alive with new levels of realism. Text is sharp and clear, and colors are more vibrant.",
+      "Why Mac – Easy to learn. Easy to set up. Astoundingly powerful. Intuitive. Packed with apps to use right out of the box. Mac is designed to let you work, play, and create like never before."
+    ],
+    "amazonLink": "https://amzn.to/4h3CPAd",
+    "category": "computers"
   }
 ]
