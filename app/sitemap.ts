@@ -11,7 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  const staticPages = ["", "/category/electronics", "/category/home-and-kitchen", "/category/fashion", "/blog"].map(
+  const staticPages = ["", "/category/electronics", "/category/home-and-kitchen", "/category/computers", "/category/automotive", "/category/smartphones", "/category/fashion", "/blog"].map(
     (page) => ({
       url: `${baseUrl}${page}`,
       lastModified: new Date(),

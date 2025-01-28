@@ -388,7 +388,7 @@ export default function Home() {
   const uwatchfreeSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "AmazonAffiliateStore™ ",
+    name: "Amazon Affiliate Store™ ",
     url: "https://amazonaffiliatestore.vercel.app/",
     image: "https://amazonaffiliatestore.vercel.app/favicon.ico",
     logo: {
@@ -403,10 +403,10 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     url: "https://amazonaffiliatestore.vercel.app",
-    name: "AmazonAffiliateStore™ ",
+    name: "Amazon Affiliate Store™ ",
     publisher: {
       "@type": "Organization",
-      name: "AmazonAffiliateStore™ ",
+      name: "Amazon Affiliate Store™ ",
       url: "https://amazonaffiliatestore.vercel.app",
     },
   }

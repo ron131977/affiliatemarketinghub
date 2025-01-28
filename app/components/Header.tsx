@@ -14,6 +14,7 @@ const Header = () => {
     { name: "Computers", slug: "computers" },
     { name: "Automotive", slug: "automotive" },
     { name: "Fashion", slug: "fashion" },
+    { name: "Blog", slug: "blog" },
   ]
 
   return (
