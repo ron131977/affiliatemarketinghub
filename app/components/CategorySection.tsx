@@ -22,7 +22,7 @@ export const CategorySection: React.FC<CategorySectionProps> = ({ title, product
     <section className="mb-12">
       <div className="flex justify-between items-center mb-4 sm:mb-6">
         <h2 className="text-xl sm:text-2xl font-bold">{title}</h2>
-        <Link href={`/category/${categorySlug}`} className="text-blue-500 hover:underline text-sm sm:text-base">
+        <Link href={`/category/${categorySlug}`} className="text-blue-500 hover:no-underline bg:text-base text-xl font-bold">
           See all
         </Link>
       </div>
