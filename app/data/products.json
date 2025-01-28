@@ -344,5 +344,30 @@
     ],
     "amazonLink": "https://amzn.to/4gdvbSC",
     "category": "home-and-kitchen"
+  },
+  {
+    "id": "Trueview-Wi-Fi-Based-Smart-CCTV-Camera-for-Home",
+    "name": "Trueview Wi Fi Based Smart CCTV Camera for Home",
+    "price": 2699,
+    "description": "Trueview 4G Sim Based + Wi Fi Based Smart CCTV Camera for Home | Baby Monitoring Servelance | Indoor Camera for Home (4G Smart Camera)",
+    "images": [
+      "https://m.media-amazon.com/images/I/41HsOrXu9fL.jpg",
+      "https://m.media-amazon.com/images/I/61-h5XVaEDL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61okUrdx5pL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61UxLxhV9ZL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61kyQOSTpAL._SL1082_.jpg",
+      "https://m.media-amazon.com/images/I/613cMlGeekL._SL1080_.jpg"
+    ],
+    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/6eb89811-b39e-49cc-8a7b-64ed9def2593/default.jobtemplate.hls.m3u8",
+    "features": [
+      "Brand: Trueview - Model Name: Trueview 4G - Connectivity Technology: Wireless - Special Feature: Motion Sensor - Indoor/Outdoor Usage: Indoor - Compatible Devices: PC - Power Source: DC - Connectivity Protocol: Cellular Wi-fi - Controller Type: Android",
+      "Support Micro SD Card Up to 256 GB & Cloud Storage (Optional)",
+      "Area motion detection, Humanoid detection, push alarm information",
+      "Horizontal rotation of 350 degrees, vertical rotation of 90 degrees",
+      "Built-in high-sensitivity MIC and speaker, support two-way audio",
+      "Intelligent motion tracking, automatically tracking when people break area"
+    ],
+    "amazonLink": "https://amzn.to/3E8bLBa",
+    "category": "electronics"
   }
 ]
