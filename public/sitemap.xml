@@ -65,18 +65,23 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
-   <url>
+  <url>
     <loc>https://amazonaffiliatestore.vercel.app/product/Jockey-Womens-High-Mid-Waist-Hipster</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
-   <url>
+  <url>
     <loc>https://amazonaffiliatestore.vercel.app/product/Trueview-Wi-Fi-Based-Smart-CCTV-Camera-for-Home</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
-   <url>
+  <url>
     <loc>https://amazonaffiliatestore.vercel.app/product/Apple-MacBook-Air-Laptop-Apple-M1-chip</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://amazonaffiliatestore.vercel.app/product/Bosch-TrueMixx-Pro-Mixer-Grinder</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>

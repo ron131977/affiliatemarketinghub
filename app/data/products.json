@@ -394,5 +394,37 @@
     ],
     "amazonLink": "https://amzn.to/4h3CPAd",
     "category": "computers"
+  },
+  {
+    "id": "Bosch-TrueMixx-Pro-Mixer-Grinder",
+    "name": "Bosch TrueMixx Pro Mixer Grinder",
+    "price": 6499,
+    "description": "Bosch TrueMixx Pro Mixer Grinder, 1000W 4 Jars Black MGM8842MIN",
+    "images": [
+      "https://m.media-amazon.com/images/I/81Cir3akReL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DDHnPVx+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/815q5g5gyxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DhTZ2KH3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qR5T6pnSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KyQLnFXDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xgOh7YA4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hxm1nLXJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FxDgcOg3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71wTj7vBEtL._SL1500_.jpg"
+    ],
+    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/ecb5e598-8215-4a1c-9b89-072a106c26df/default.jobtemplate.hls.m3u8",
+    "features": [
+      "Brand: Bosch - Model Name: True Mixx - Colour: Black - Product Dimensions: 21D x 49.5W x 21.9H Centimeters - Material: Stainless Steel - Capacity: 1.4 litres - Controls Type: Plastic - Item Weight: 5200 Grams - Is Dishwasher Safe: Yes - Special Feature: Overload Protection",
+      "Uniquely designed blunt PoundingBlade with thick edges which replicates pounding effect on dry ingredients, thus giving authentic texture and taste",
+      "Completely hands free operation with unique lid-locks and strong suction feet for added stability",
+      "stainless steel blades for high performance wet, dry and chutney grinding, Cable management for easy handling and storage",
+      "Concealed bush for contamination free mixing and grinding",
+      "30 minutes motor rating (5 min On and 2 min Off, maximum 6 cycles)",
+      "High grade stainless steel jars, Ergonomic design of jar handles for easy operations",
+      "Overload protector for safe operations and High grade stainless steel jars",
+      "Country of Origin: India"
+    ],
+    "amazonLink": "https://amzn.to/40taiwS",
+    "category": "home-and-kitchen"
   }
 ]
