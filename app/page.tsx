@@ -455,9 +455,11 @@ export default function Home() {
         <meta name="msvalidate.01" content="695BD01C3BC615AB69B7E9C3B718EB74" />
         {/* <Script type="application/ld+json">{JSON.stringify(uwatchfreeSchema)}</Script>
         <Script type="application/ld+json">{JSON.stringify(rankMathSchema)}</Script> */}
+
         <meta name="google-adsense-account" content="ca-pub-4821855388989115" />
       </Head>
-
+      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4821855388989115"
+        crossorigin="anonymous"></Script>
 
       {/* Google Tag Manager Script */}
       <Script src="https://www.googletagmanager.com/gtag/js?id=G-ECQCVNHQ8S" strategy="lazyOnload" async />
