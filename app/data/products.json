@@ -103,26 +103,6 @@
     "amazonLink": "https://amzn.to/40xQBnC",
     "category": "fashion"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "id": "ADBUCKS-Sweatshirts-for-Women-Stylish-Winter",
     "name": "ADBUCKS Sweatshirts for Women Stylish Winter",
@@ -434,9 +414,9 @@
     "description": "The Leader Who Had No Title is a motivational novel written by one of the world's most highly respected leadership experts Robin Sharma. ",
     "images": [
       "https://m.media-amazon.com/images/I/61UzJrqtuWL.jpg",
-       "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532892312i/40978554.jpg",
+      "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532892312i/40978554.jpg",
       "https://m.media-amazon.com/images/I/81P5ZoENQUL._SY425_.jpg",
-      "https://m.media-amazon.com/images/S/amzn-author-media-prod/ddl6isug919ukj2r4bla21gm4q._SY450_CR0%2C0%2C450%2C450_.jpg"     
+      "https://m.media-amazon.com/images/S/amzn-author-media-prod/ddl6isug919ukj2r4bla21gm4q._SY450_CR0%2C0%2C450%2C450_.jpg"
     ],
     "video": "https://raw.githubusercontent.com/amazonaffiliatestore2025/amazonaffiliatestore/refs/heads/main/rohitsharma/The-Leader-Who-Had-No-Title-author-Robin-Sharma-intervew-with-Verne-Harnish.m3u8",
     "features": [
@@ -458,10 +438,10 @@
     "description": "Timeless lessons on wealth, greed, and happiness doing well with money isn?t necessarily about what you know.",
     "images": [
       "https://m.media-amazon.com/images/I/81Dky+tD+pL._SY425_.jpg",
-       "https://prodimage.images-bn.com/pimages/9781804090114_p0_v2_s1200x630.jpg",
-       "https://images.squarespace-cdn.com/content/v1/58928b229f745653f78739d5/1598934163877-VH3MHCMSKCMXHHE07EGB/morgan-housel-alexandbooks-podcast.png",   
+      "https://prodimage.images-bn.com/pimages/9781804090114_p0_v2_s1200x630.jpg",
+      "https://images.squarespace-cdn.com/content/v1/58928b229f745653f78739d5/1598934163877-VH3MHCMSKCMXHHE07EGB/morgan-housel-alexandbooks-podcast.png",
       "https://miro.medium.com/v2/resize:fit:1400/0*EC_axXpLLltvZg8x",
-      "https://m.media-amazon.com/images/S/amzn-author-media-prod/rtoaal9u1721n93pmiqkl7s1u1.jpg"     
+      "https://m.media-amazon.com/images/S/amzn-author-media-prod/rtoaal9u1721n93pmiqkl7s1u1.jpg"
     ],
     "video": "https://raw.githubusercontent.com/amazonaffiliatestore2025/amazonaffiliatestore/refs/heads/main/The-Psychology-of-Money/The-Psychology-of-Money.m3u8",
     "features": [
@@ -480,9 +460,8 @@
     "description": "World’s Greatest Books For Personal Growth & Wealth (Set of 4 Books) : Perfect Motivational Gift Set",
     "images": [
       "https://m.media-amazon.com/images/I/71TqdH9wTmL._SL1500_.jpg",
-       "https://m.media-amazon.com/images/I/71ui8Rj-6FL._SL1500_.jpg",
-       "https://m.media-amazon.com/images/I/81aPbY-hEGS._SL1500_.jpg",   
-      "https://miro.medium.com/v2/resize:fit:1400/0*EC_axXpLLltvZg8x",
+      "https://m.media-amazon.com/images/I/71ui8Rj-6FL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81aPbY-hEGS._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71YI7VXtprS._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71cVHjyflsL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/710M1Cov2eL._SL1500_.jpg",
@@ -491,7 +470,7 @@
       "https://m.media-amazon.com/images/I/713gTrbT+wL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/517LznLEhnL.jpg",
       "https://m.media-amazon.com/images/I/41VDzk4kdML.jpg",
-      "https://bookshub.co.in/public/media/authors/95bf27a9dce44f075b1850c20bd65bbf.jpg"          
+      "https://bookshub.co.in/public/media/authors/95bf27a9dce44f075b1850c20bd65bbf.jpg"
     ],
     "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/6ea9f9cc-1aee-48b0-aee1-d907518087c7/default.vertical.jobtemplate.hls.m3u8",
     "features": [
