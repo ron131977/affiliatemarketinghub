@@ -98,7 +98,90 @@ export default function RootLayout({
         <Header />
         <main>{children}</main>
         <Footer />
-        <JsonLd<BreadcrumbList>
+        <JsonLd
+  item={{
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          {
+            "@type": "ListItem",
+            position: 1,
+            name: "Home",
+            item: "https://amazonaffiliatestore.vercel.app",
+          },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: "Electronics",
+            item: "https://amazonaffiliatestore.vercel.app/category/electronics",
+          },
+          {
+            "@type": "ListItem",
+            position: 3,
+            name: "Home & Kitchen",
+            item: "https://amazonaffiliatestore.vercel.app/category/home-and-kitchen",
+          },
+          {
+            "@type": "ListItem",
+            position: 4,
+            name: "Computers",
+            item: "https://amazonaffiliatestore.vercel.app/category/computers",
+          },
+          {
+            "@type": "ListItem",
+            position: 5,
+            name: "Mobiles",
+            item: "https://amazonaffiliatestore.vercel.app/category/smartphones",
+          },
+          {
+            "@type": "ListItem",
+            position: 6,
+            name: "Automotive",
+            item: "https://amazonaffiliatestore.vercel.app/category/automotive",
+          },
+          {
+            "@type": "ListItem",
+            position: 7,
+            name: "Books",
+            item: "https://amazonaffiliatestore.vercel.app/category/books",
+          },
+          {
+            "@type": "ListItem",
+            position: 8,
+            name: "Fashion",
+            item: "https://amazonaffiliatestore.vercel.app/category/fashion",
+          },
+        ],
+      },
+      {
+        "@type": "Organization",
+        name: "Amazon Affiliate Store™",
+        url: "https://amazonaffiliatestore.vercel.app/",
+        image: "https://amazonaffiliatestore.vercel.app/favicon.ico",
+        logo: {
+          "@type": "ImageObject",
+          url: "https://amazonaffiliatestore.vercel.app/favicon.ico",
+          width: 280,
+          height: 80,
+        },
+      },
+      {
+        "@type": "WebSite",
+        url: "https://amazonaffiliatestore.vercel.app",
+        name: "Amazon Affiliate Store™",
+        publisher: {
+          "@type": "Organization",
+          name: "Amazon Affiliate Store™",
+          url: "https://amazonaffiliatestore.vercel.app",
+        },
+      },
+    ],
+  }}
+/>
+
+        {/* <JsonLd<BreadcrumbList>
            item={{
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
@@ -153,7 +236,7 @@ export default function RootLayout({
               },
             ],
           }}
-        />
+        /> */}
       </body>
     </html>
   )
