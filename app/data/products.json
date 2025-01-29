@@ -472,5 +472,34 @@
     ],
     "amazonLink": "https://amzn.to/4gh8xJa",
     "category": "books"
+  },
+  {
+    "id": "Worlds-Greatest-Books-For-Personal-Growth-and-Wealth",
+    "name": "World’s Greatest Books For Personal Growth & Wealth",
+    "price": 289,
+    "description": "World’s Greatest Books For Personal Growth & Wealth (Set of 4 Books) : Perfect Motivational Gift Set",
+    "images": [
+      "https://m.media-amazon.com/images/I/71TqdH9wTmL._SL1500_.jpg",
+       "https://m.media-amazon.com/images/I/71ui8Rj-6FL._SL1500_.jpg",
+       "https://m.media-amazon.com/images/I/81aPbY-hEGS._SL1500_.jpg",   
+      "https://miro.medium.com/v2/resize:fit:1400/0*EC_axXpLLltvZg8x",
+      "https://m.media-amazon.com/images/I/71YI7VXtprS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cVHjyflsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/710M1Cov2eL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Oo0y5SGTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rqQQL1QIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/713gTrbT+wL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/517LznLEhnL.jpg",
+      "https://m.media-amazon.com/images/I/41VDzk4kdML.jpg",
+      "https://bookshub.co.in/public/media/authors/95bf27a9dce44f075b1850c20bd65bbf.jpg"          
+    ],
+    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/6ea9f9cc-1aee-48b0-aee1-d907518087c7/default.vertical.jobtemplate.hls.m3u8",
+    "features": [
+      "World’s Greatest Books For Personal Growth & Wealth (Set of 4 Books) : Perfect Motivational Gift Set (Author: Napoleon Hill, Dr. Joseph Murphy, George S. Clason)",
+      "A collection of world's timeless classics, this box set includes the four greatest bestsellers, which have inspired readers for generations.",
+      "Packed with wisdom and time-tested principles that are as relevant in modern times as ever before, these inspirational books are a must-read for all those aspiring for personal growth and wealth."
+    ],
+    "amazonLink": "https://amzn.to/4gh8xJa",
+    "category": "books"
   }
 ]
