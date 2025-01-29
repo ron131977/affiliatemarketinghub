@@ -75,7 +75,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     site: "@yamazonaffiliatestore",
-    creator: "@yyamazonaffiliatestore",
+    creator: "@yamazonaffiliatestore2025",
   },
   verification: {
     google: "RNN2teFhD-lV1TQ9qcLQiSO5BLBB4DmztyYJS6QLqDg",
