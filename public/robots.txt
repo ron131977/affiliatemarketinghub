@@ -1,9 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://amazonaffiliatestore.vercel.app/sitemap.xml
-
-Allow: /category/electronics
-Allow: /category/home-and-kitchen
-Allow: /category/fashion
-
