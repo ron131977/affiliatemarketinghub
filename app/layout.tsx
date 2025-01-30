@@ -536,7 +536,7 @@ export default function RootLayout({
                 url: "https://amazonaffiliatestore.vercel.app/",
                 name: "Amazon Affiliate Store | Best Amazon Products and Deals",
                 description:
-                  "Discover the best Amazon products and deals on AmazonAffiliateStore. Find top-rated electronics, home goods, fashion, and more at unbeatable prices.",
+                  "Discover the best Amazon products and deals on Amazon Affiliate Store. Find top-rated electronics, home goods, fashion, and more at unbeatable prices.",
                 inLanguage: "en-US",
                 isPartOf: { "@id": "https://amazonaffiliatestore.vercel.app/#website" },
                 breadcrumb: { "@id": "https://amazonaffiliatestore.vercel.app/#breadcrumblist" },
