@@ -16,7 +16,7 @@ export default function DrTrailer() {
       <main className="container mx-auto p-4 text-center">
         <div className="flex flex-col items-center">
           <Image 
-            src="https://gravatar.com/drtrailer2022"
+            src="https://1.gravatar.com/avatar/1244174c683b0ebb36422d2fbde4c2d7affc284a74b9b849f5e43958500d5198?size=256"
             alt="DrTrailer"
             width={256}
             height={256}
