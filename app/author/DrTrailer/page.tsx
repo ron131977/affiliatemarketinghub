@@ -20,6 +20,7 @@ export default function DrTrailer() {
             alt="DrTrailer"
             width={256}
             height={256}
+            quality={90}
             className="rounded-full border-4 border-gray-300"
           />
           <h1 className="text-3xl font-bold mt-4">DrTrailer</h1>
