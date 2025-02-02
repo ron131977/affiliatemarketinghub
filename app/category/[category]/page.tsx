@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: `${category} | AAS™`,
     description: `Explore our wide range of ${category.toLowerCase()} products. Find the best deals on ${category.toLowerCase()} at AmazonAffiliateStore.`,
     openGraph: {
-      title: `${category} Products | AmazonAffiliateStore`,
+      title: `${category} Products | AAS™`,
       description: `Discover amazing ${category.toLowerCase()} products at unbeatable prices. Shop now at AmazonAffiliateStore.`,
       type: "website",
     },
