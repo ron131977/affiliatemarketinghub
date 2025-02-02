@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${product.name}`,
     description: `${product.description.slice(0, 155)}... Buy ${product.name} at the best price.`,
-    keywords: [product.name, product.category,   "Amazon",
+    keywords: [product.name, product.category, "Amazon",
       "affiliate",
       "products",
       "best deals",
