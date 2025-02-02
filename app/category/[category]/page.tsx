@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${category} | AmazonAffiliateStore`,
+    title: `${category} | AAS™`,
     description: `Explore our wide range of ${category.toLowerCase()} products. Find the best deals on ${category.toLowerCase()} at AmazonAffiliateStore.`,
     openGraph: {
       title: `${category} Products | AmazonAffiliateStore`,
