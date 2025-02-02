@@ -481,5 +481,32 @@
     ],
     "amazonLink": "https://amzn.to/3CosmjP",
     "category": "books"
+  },
+  {
+    "id": "Xiaomi-Pad-7-Qualcomm",
+    "name": "Xiaomi Pad 7 |Qualcomm Snapdragon 7+ Gen 3",
+    "price": 27999,
+    "description": "Xiaomi Pad 7 |Qualcomm Snapdragon 7+ Gen 3 |28.44cm(11.2\") Display |8GB, 128GB |3.2K CrystalRes Display |HyperOS 2 |68 Billion+ Colours |Dolby Vision Atmos |Quad Speakers |Wi-Fi 6e |Graphite Grey",
+    "images": [
+      "https://m.media-amazon.com/images/I/71Aw016yktL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/817Xezz1x7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51WS4Or-unL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cain5NodL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81OeFZAXqBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DutXb4XUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711Iz79l-PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71daqiKKDQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81WqgpXe1hL._SL1500_.jpg"
+    ],
+    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/b3ae4340-8af5-47fc-be04-27b4e661d5dd/default.jobtemplate.hls.m3u8",
+    "features": [
+      "3.2K CrystalRes Display - Immerse yourself in unmatched visuals with a 3.2K QHD+ display that brings every detail to life. Experience fluid motion with a 144Hz Adaptive Sync refresh rate, vibrant precision with over 68.7 billion colors, and cinematic beauty with a 3:2 balanced aspect ratio. At 800 nits of peak brightness, it outshines the sun to keep your view crystal clear outdoors.",
+      "Most Advanved Snapdragon 7 Series Processor - Power through tasks with the Snapdragon 7+ Gen 3, offering upto 2x better performance for smoother multitasking and gaming. As the most advanced processor in the Snapdragon 7 series, it supports LPDDR5X memory and UFS 4.0 storage for lightning-fast data access. *as compared to previous gen xiaomi tablets",
+      "Immersive Surround Sound - Whether gaming or streaming, enjoy sound that puts you in the center of the action. Feel every note with the flagship quad speakers and Panoramic Surround Sound, bringing your content to life enhanced with Dolby Atmos. Experience the ultimate audio upgrade with Volume Booster Mode, achieving 200% volume without compromising sound quality.",
+      "Stay productive for up to 16 hours - Stay maximised all day with the robust 8850 mAh battery, giving you the power to work and create without letting you down. Get back to business faster with 45W Turbo Charging, ensuring you’re always ready to perform",
+      "Focus Keyboard - The backlit keyboard with touch Keypad makes clicking, scrolling & navigating effortless while 0° to 124° stepless adjustment offers truly comfortable viewing experience *sold seperately"
+    ],
+    "amazonLink": "https://amzn.to/4hjopMy",
+    "category": "smartphones"
   }
 ]
