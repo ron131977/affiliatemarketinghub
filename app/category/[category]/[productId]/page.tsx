@@ -34,11 +34,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${product.name} `,
+    title: `${product.name}`,
     description: `${product.description.slice(0, 155)}... Buy ${product.name} at the best price.`,
     keywords: [product.name, product.category, "Amazon", "best price", "online shopping"],
     openGraph: {
-      title: `${product.name} `,
+      title: `${product.name}`,
       description: product.description.slice(0, 200) + "...",
       url: `https://amazonaffiliatestore.vercel.app/category/${params.category}/${product.id}`,
       siteName: "AmazonAffiliateStore",
