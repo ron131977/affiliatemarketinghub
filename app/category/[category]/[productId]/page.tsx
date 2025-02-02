@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!product) {
     return {
-      title: "Product Not Found | AmazonAffiliateStore",
+      title: "Product Not Found | Amazon Affiliate Store",
       description: "The requested product could not be found.",
     }
   }
@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: `${product.name}`,
       description: product.description.slice(0, 200) + "...",
       url: `https://amazonaffiliatestore.vercel.app/category/${params.category}/${product.id}`,
-      siteName: "AmazonAffiliateStore",
+      siteName: "Amazon Affiliate Store",
       images: [
         {
           url: product.images[0],
@@ -55,7 +55,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: `${product.name} | AmazonAffiliateStore`,
+      title: `${product.name} | Amazon Affiliate Store`,
       description: product.description.slice(0, 200) + "...",
       images: [product.images[0]],
       creator: "@yourtwitterhandle",

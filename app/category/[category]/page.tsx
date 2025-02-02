@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const category = getCategoryName(params.category)
   if (!category) {
     return {
-      title: "Category Not Found | AmazonAffiliateStore",
+      title: "Category Not Found | Amazon Affiliate Store",
       description: "The requested category could not be found.",
     }
   }
