@@ -34,13 +34,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${product.name} | Best Price on AmazonAffiliateStore`,
+    title: `${product.name} | Best Price on AAS™`,
     description: `${product.description.slice(0, 155)}... Buy ${product.name} at the best price.`,
     keywords: [product.name, product.category, "Amazon", "best price", "online shopping"],
     openGraph: {
-      title: `${product.name} - Best Deal on AmazonAffiliateStore`,
+      title: `${product.name} - Best Deal on AAS™`,
       description: product.description.slice(0, 200) + "...",
-      url: `https://yourdomain.com/category/${params.category}/${product.id}`,
+      url: `https://amazonaffiliatestore.vercel.app/category/${params.category}/${product.id}`,
       siteName: "AmazonAffiliateStore",
       images: [
         {
@@ -61,7 +61,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       creator: "@yourtwitterhandle",
     },
     alternates: {
-      canonical: `https://yourdomain.com/category/${params.category}/${product.id}`,
+      canonical: `https://amazonaffiliatestore.vercel.app/category/${params.category}/${product.id}`,
     },
   }
 }
