@@ -19,10 +19,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${category} | AAS™`,
+    title: `${category} | Amazon Affiliate Store™`,
     description: `Explore our wide range of ${category.toLowerCase()} products. Find the best deals on ${category.toLowerCase()} at AmazonAffiliateStore.`,
     openGraph: {
-      title: `${category} Products | AAS™`,
+      title: `${category} Products | Amazon Affiliate Store™`,
       description: `Discover amazing ${category.toLowerCase()} products at unbeatable prices. Shop now at AmazonAffiliateStore.`,
       type: "website",
     },
