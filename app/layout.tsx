@@ -341,7 +341,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://amazonaffiliatestore.vercel.app"),
   title: {
     default: "Amazon Affiliate Store | Best Amazon Products and Deals",
-    template: "%s | AmazonAffiliateStore",
+    template: "%s | Amazon Affiliate Store",
   },
   description:
     "Discover the best Amazon products and deals on AmazonAffiliateStore. Find top-rated electronics, home goods, fashion, and more at unbeatable prices.",
